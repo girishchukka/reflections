@@ -4,4 +4,7 @@ Why might you want to always pull changes manually rather than having Git automa
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
+Updated email address and user name
+
+
 
